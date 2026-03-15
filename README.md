@@ -1,6 +1,6 @@
 # HackerRank C Solutions
-[![Repository size](https://img.shields.io/github/repo-size/assiantadarsh/hackerrank-solutions)]()
-[![Last commit](https://img.shields.io/github/last-commit/assiantadarsh/hackerrank-solutions)]()
+[![Repository size](https://img.shields.io/github/repo-size/assiantadarsh/hacker-rank-solutions)]()
+[![Last commit](https://img.shields.io/github/last-commit/assiantadarsh/hacker-rank-solutions)]()
 [![Language](https://img.shields.io/badge/language-C-blue)]()
 
 ## 👋 About
@@ -14,12 +14,6 @@ The goal is to practice consistently, improve problem solving skills, and build 
 ## 📖 Table of Contents
 - [Topics Covered](#-topics-covered)
 - [Repository Structure](#-repository-structure)
-- [How I write each solution](#-how-i-write-each-solution)
-- [How to run](#-how-to-run)
-- [Commit & PR style](#-commit--pr-style)
-- [Contributing / Notes](#-contributing--notes)
-
----
 
 ## 📚 Topics Covered
 
