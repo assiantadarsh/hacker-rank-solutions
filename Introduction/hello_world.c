@@ -1,3 +1,7 @@
+// Problem:Hello World in C
+// Platform - HackerRank
+// Language - C
+
 #include <stdio.h>
 
 int main() 
