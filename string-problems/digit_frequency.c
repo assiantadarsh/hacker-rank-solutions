@@ -1,4 +1,4 @@
-// Problem-Arrays and Strings
+// Problem-Arrays and String
 // Platform-Hackerrank
 // Languaage-C
 // Time complexity- O(n)
